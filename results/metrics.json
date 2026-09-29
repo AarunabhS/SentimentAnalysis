@@ -1,0 +1,81 @@
+{
+  "title": "Sentiment Analysis",
+  "class_names": [
+    "Negative",
+    "Positive"
+  ],
+  "input_file": "reviews.csv",
+  "input_sha256": "d5a164daf0cfa59303f481dd528fe0b74ebca43dff30a30063597a82d6886428",
+  "rows_read": 3000,
+  "rows_used": 2979,
+  "duplicates_removed": 21,
+  "conflicting_rows_removed": 0,
+  "split_strategy": "stratified 60/20/20 after normalized-text deduplication",
+  "label_source": "human sentiment labels from UCI 331; never VADER-generated training labels",
+  "seed": 42,
+  "selected_model": "tfidf_logistic",
+  "selected_threshold": 0.5058400193455392,
+  "selection_metric": "average_precision",
+  "threshold_objective": "validation F1",
+  "splits": {
+    "train": {
+      "rows": 1787,
+      "positives": 893
+    },
+    "validation": {
+      "rows": 596,
+      "positives": 298
+    },
+    "test": {
+      "rows": 596,
+      "positives": 297
+    }
+  },
+  "test": {
+    "model": "tfidf_logistic",
+    "split": "test",
+    "average_precision": 0.88728448330423,
+    "roc_auc": 0.8860173642782339,
+    "log_loss": 0.4729998546853555,
+    "brier_score": 0.15088931389039634,
+    "accuracy": 0.7953020134228188,
+    "precision": 0.8113879003558719,
+    "recall": 0.7676767676767676,
+    "f1": 0.7889273356401384,
+    "threshold": 0.5058400193455392,
+    "tn": 246,
+    "fp": 53,
+    "fn": 69,
+    "tp": 228,
+    "alerts": 281,
+    "positive_rate": 0.4983221476510067,
+    "rows": 596
+  },
+  "baseline_test": {
+    "model": "baseline",
+    "split": "test",
+    "average_precision": 0.4983221476510067,
+    "roc_auc": 0.5,
+    "log_loss": 0.6931454592916412,
+    "brier_score": 0.24999913936593368,
+    "accuracy": 0.5016778523489933,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1": 0.0,
+    "threshold": 0.5,
+    "tn": 299,
+    "fp": 0,
+    "fn": 297,
+    "tp": 0,
+    "alerts": 0,
+    "positive_rate": 0.4983221476510067,
+    "rows": 596
+  },
+  "python": "3.13.2",
+  "packages": {
+    "numpy": "2.5.3",
+    "pandas": "2.3.3",
+    "scikit-learn": "1.9.1",
+    "matplotlib": "3.11.2"
+  }
+}

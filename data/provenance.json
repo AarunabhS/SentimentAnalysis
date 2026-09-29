@@ -1,0 +1,10 @@
+{
+  "dataset_source": "Dimitrios Kotzias, UCI Sentiment Labelled Sentences (2015)",
+  "dataset_page": "https://archive.ics.uci.edu/dataset/331/sentiment+labelled+sentences",
+  "download_url": "https://archive.ics.uci.edu/static/public/331/sentiment+labelled+sentences.zip",
+  "source_sha256": "afc26626d710899948693e1a61405dce197f57ffa719fa1130d346b4cc095343",
+  "local_file": "reviews.csv",
+  "local_sha256": "d5a164daf0cfa59303f481dd528fe0b74ebca43dff30a30063597a82d6886428",
+  "licence": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+  "preparation": "3,000 human-labelled sentences: 1,000 each from Amazon, IMDb, and Yelp, balanced within each source. Labels are 0=negative and 1=positive; there is no human-labelled neutral class. The original Black Friday tweets on Databricks/S3 were unavailable. The local tweet sample found on the Mac had no human labels and was left untouched. It is not published in this repository. IMDb contains multiline sentences; the converter parses the final tab-separated label and normalizes whitespace without losing rows."
+}

@@ -1,0 +1,10 @@
+.DS_Store
+__pycache__/
+.pytest_cache/
+.venv/
+.ipynb_checkpoints/
+*.joblib
+.env
+.env.*
+results/new_predictions.csv
+data/private/

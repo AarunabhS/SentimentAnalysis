@@ -1,0 +1,9 @@
+text,neg,neu,pos,compound,sentiment
+I love this Black Friday deal! The headphones sound amazing.,0.0,0.491,0.509,0.8516,positive
+The checkout crashed again. What a terrible shopping experience.,0.279,0.721,0.0,-0.4767,negative
+The sale starts at 9 am on Friday.,0.0,1.0,0.0,0.0,neutral
+This discount is not good and delivery is painfully slow.,0.421,0.579,0.0,-0.7009,negative
+Great customer service — they fixed my order immediately!,0.0,0.646,0.354,0.6588,positive
+I ordered a blue jacket in size medium.,0.0,1.0,0.0,0.0,neutral
+The advertised bargain was disappointing and misleading.,0.504,0.342,0.154,-0.6249,negative
+So happy my order arrived early :),0.0,0.417,0.583,0.7902,positive

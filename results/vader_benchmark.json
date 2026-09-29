@@ -1,0 +1,8 @@
+{
+  "test_rows": 596,
+  "coverage": 0.7936241610738255,
+  "neutral_abstentions": 123,
+  "accuracy_on_non_neutral_predictions": 0.8372093023255814,
+  "correct_predictions_as_fraction_of_all_test_rows": 0.6644295302013423,
+  "interpretation": "Neutral predictions abstain on this binary benchmark; neutral is never silently mapped to positive."
+}

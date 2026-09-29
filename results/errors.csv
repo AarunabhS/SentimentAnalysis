@@ -1,0 +1,123 @@
+row_id,actual,baseline_score,tfidf_logistic_score,predicted,text,source,vader_sentiment
+1231,0,0.49972020,0.53982948,1,"The movie lacks visual interest, drama, expression of feeling, and celebration of the very patriotism that underlines the narrative.",imdb,positive
+151,1,0.49972020,0.38057774,0,I had absolutely no problem with this headset linking to my 8530 Blackberry Curve!,amazon,positive
+1761,0,0.49972020,0.54162240,1,The film has an ultra-cheap look to it.,imdb,neutral
+528,0,0.49972020,0.51095670,1,Unfortunately it's easy to accidentally activate them with the gentle-touch buttons if you accidentally touch the phone to your face while listening.,amazon,negative
+1441,0,0.49972020,0.66720578,1,This film (and I use that word loosely) is an insult to the movie-going public.,imdb,negative
+2127,1,0.49972020,0.48788126,0,Nice blanket of moz over top but i feel like this was done to cover up the subpar food.,yelp,positive
+1466,0,0.49972020,0.57827545,1,"And, FINALLY, after all that, we get to an ending that would've been great had it been handled by competent people and not Jerry Falwell.",imdb,positive
+1927,1,0.49972020,0.45561187,0,"However, after finally watching this film, I realized that not only had I had a closed mind to the brilliance it depicts, I also found myself watching it over and over again.",imdb,positive
+2788,0,0.49972020,0.53521310,1,"I had high hopes for this place since the burgers are cooked over a charcoal grill, but unfortunately the taste fell flat, way flat.",yelp,negative
+2255,1,0.49972020,0.42191160,0,You can't beat that.,yelp,neutral
+1472,1,0.49972020,0.24470339,0,"Lifetime does not air it enough, so if anyone knows what store sells it let me know because this is a must-have.",imdb,neutral
+2502,1,0.49972020,0.18342632,0,"Point your finger at any item on the menu, order it and you won't be disappointed.",yelp,positive
+2825,0,0.49972020,0.56651743,1,This place deserves no stars.,yelp,negative
+2387,1,0.49972020,0.31846882,0,Today was my first taste of a Buldogis Gourmet Hot Dog and I have to tell you it was more than I ever thought possible.,yelp,neutral
+2131,0,0.49972020,0.65564634,1,I give it 2 thumbs down,yelp,neutral
+2254,1,0.49972020,0.49125925,0,You cant go wrong with any of the food here.,yelp,positive
+2572,0,0.49972020,0.53892481,1,The kids play area is NASTY!,yelp,negative
+1777,1,0.49972020,0.06501928,0,"Predictable, but not a bad watch.",imdb,positive
+1264,0,0.49972020,0.61311364,1,If it was to turn my good day feeling into a night of disturbing memories than I guess he succeeded.,imdb,positive
+1483,1,0.49972020,0.49851944,0,"Initially the local sites in the film, which was filmed here in Buffalo, intrigued me.",imdb,neutral
+1988,0,0.49972020,0.52192187,1,Now I am getting angry and I want my damn pho.,yelp,negative
+1695,0,0.49972020,0.53322909,1,Lame would be the best way to describe it.,imdb,positive
+1879,0,0.49972020,0.54730179,1,"I felt asleep the first time I watched it, so I can recommend it for insomniacs.",imdb,positive
+2733,1,0.49972020,0.49715861,0,"I got to enjoy the seafood salad, with a fabulous vinegrette.",yelp,positive
+1532,0,0.49972020,0.63361790,1,"I'm terribly disappointed that this film would receive so many awards and accolades, especially when there are far more deserving works of film out there.",imdb,negative
+1579,1,0.49972020,0.44001298,0,"Easily, none other cartoon made me laugh in a tender way (before getting into dark sitcoms oriented for teenagers).",imdb,positive
+1914,1,0.49972020,0.32845114,0,"I do not know if this was Emilio Estevez's directorial debut, but the pacing, the interplay and development of the characters as well as some clever camera work surrounding the character Estevez plays all suggest a natural eye.",imdb,positive
+2758,0,0.49972020,0.54373176,1,Their frozen margaritas are WAY too sugary for my taste.,yelp,neutral
+1642,1,0.49972020,0.39432007,0,"Helen Baxendale is a very credible lady Macbeth who can be very cheerfull at times and sometimes she just looks like a naughty girl, but deadly in her taste for blood and evil.",imdb,negative
+2709,1,0.49972020,0.36760901,0,"One nice thing was that they added gratuity on the bill since our party was larger than 6 or 8, and they didn't expect more tip than that.",yelp,positive
+324,0,0.49972020,0.51252829,1,"However-the riingtones are not the best, and neither are the games.",amazon,negative
+783,0,0.49972020,0.70023573,1,"The internet access was fine, it the rare instance that it worked.",amazon,positive
+1087,1,0.49972020,0.16121805,0,I don't think you will be disappointed.,imdb,negative
+1369,1,0.49972020,0.20221724,0,They could be used as exemplars for any set designer.,imdb,neutral
+2084,1,0.49972020,0.47577245,0,"The only good thing was our waiter, he was very helpful and kept the bloddy mary's coming.",yelp,positive
+2836,1,0.49972020,0.48087539,0,Some may say this buffet is pricey but I think you get what you pay for and this place you are getting quite a lot!,yelp,negative
+2369,1,0.49972020,0.50537097,0,I will come back here every time I'm in Vegas.,yelp,neutral
+1431,1,0.49972020,0.48928291,0,"I like Armand Assante & my cable company's summary sounded interesting, so I watched it, twice already, and probably will again.",imdb,positive
+73,1,0.49972020,0.47140779,0,Nice docking station for home or work.,amazon,positive
+715,1,0.49972020,0.38848570,0,My phone doesn't slide around my car now and the grip prevents my phone from slipping out of my hand.,amazon,positive
+1806,1,0.49972020,0.26239157,0,I struggle to find anything bad to say about it.,imdb,negative
+1156,0,0.49972020,0.59752808,1,I was left shattered from the experience of watching this 'film' and I took a good two hours to fully recover.,imdb,negative
+1477,1,0.49972020,0.29325876,0,But this movie really got to me.,imdb,neutral
+46,0,0.49972020,0.67468825,1,Who in their right mind is gonna buy this battery?.,amazon,neutral
+2765,1,0.49972020,0.44022166,0,"Perfect for someone (me) who only likes beer ice cold, or in this case, even colder.",yelp,positive
+2797,1,0.49972020,0.45807987,0,I can say that the desserts were yummy.,yelp,positive
+426,1,0.49972020,0.48748049,0,My Sanyo has survived dozens of drops on blacktop without ill effect.,amazon,positive
+1069,1,0.49972020,0.39809292,0,"If there was ever a movie that needed word-of-mouth to promote, this is it.",imdb,positive
+437,0,0.49972020,0.80459297,1,Very Displeased.,amazon,negative
+2766,0,0.49972020,0.63771946,1,Bland and flavorless is a good way of describing the barely tepid meat.,yelp,positive
+1687,0,0.49972020,0.83286799,1,"The results, well, are a shame.",imdb,negative
+2102,0,0.49972020,0.52488369,1,"Although I very much liked the look and sound of this place, the actual experience was a bit disappointing.",yelp,neutral
+2465,0,0.49972020,0.54064104,1,Seafood was limited to boiled shrimp and crab legs but the crab legs definitely did not taste fresh.,yelp,positive
+1626,1,0.49972020,0.46337058,0,There's barely a boring moment in the film and there are plenty of humorous parts.,imdb,positive
+1176,1,0.49972020,0.20597527,0,"Garbo, who showed right off the bat that her talents could carry over from the silent era (I wanted to see some of her silent work, but Netflix doesn't seem to be stocking them.",imdb,positive
+30,0,0.49972020,0.55125406,1,"This is a simple little phone to use, but the breakage is unacceptible.",amazon,neutral
+23,1,0.49972020,0.38559330,0,I have yet to run this new battery below two bars and that's three days without charging.,amazon,neutral
+2731,0,0.49972020,0.69288672,1,"I have watched their prices inflate, portions get smaller and management attitudes grow rapidly!",yelp,neutral
+974,0,0.49972020,0.64049901,1,Phone falls out easily.,amazon,positive
+1809,1,0.49972020,0.46727546,0,"The film deserves strong kudos for taking this stand, for having exceptional acting from its mostly lesser-known cast and for the super-intelligent script that doesn't insult the audience or take the easy way out when it comes to white racism.",imdb,positive
+2353,0,0.49972020,0.62235648,1,I left with a stomach ache and felt sick the rest of the day.,yelp,negative
+2372,1,0.49972020,0.37810064,0,Def coming back to bowl next time,yelp,neutral
+22,0,0.49972020,0.54212047,1,The commercials are the most misleading.,amazon,negative
+1608,0,0.49972020,0.55702126,1,The basic premise is wasted since it is sidelined by the inexplicable focus on the documentary crew.,imdb,negative
+182,0,0.49972020,0.69041992,1,"I have this phone and it is a thorn in my side, I really abhor it.",amazon,negative
+2404,0,0.49972020,0.60849578,1,"On the ground, right next to our table was a large, smeared, been-stepped-in-and-tracked-everywhere pile of green bird poop.",yelp,neutral
+2277,1,0.49972020,0.39195654,0,I didn't know pulled pork could be soooo delicious.,yelp,positive
+1484,1,0.49972020,0.48005646,0,Later I found myself lost in the power of the film.,imdb,negative
+1972,1,0.49972020,0.35363515,0,":) Anyway, the plot flowed smoothly and the male-bonding scenes were a hoot.",imdb,positive
+33,0,0.49972020,0.59534325,1,I have two more years left in this contract and I hate this phone.,amazon,negative
+353,0,0.49972020,0.92686722,1,"The loudspeaker option is great, the bumpers with the lights is very ... appealing.",amazon,positive
+271,0,0.49972020,0.51706135,1,Unreliable - I'm giving up.,amazon,positive
+1512,0,0.49972020,0.52686503,1,And if that isn't enough of a mess of a movie for you - the picture is also marred with a constant use of studio sets and indoor exteriors.,imdb,negative
+982,0,0.49972020,0.68303023,1,The screen does get smudged easily because it touches your ear and face.,amazon,positive
+1479,1,0.49972020,0.49421980,0,"I really hope the team behind this movie makes more movies, and that they will continue to do so in their own, some kinda weird style.",imdb,positive
+1595,1,0.49972020,0.50179464,0,I believe that Pitch Black was done well.,imdb,positive
+553,1,0.49972020,0.40323344,0,Virgin Wireless rocks and so does this cheap little phone!,amazon,neutral
+1564,0,0.49972020,0.54139835,1,The budget was evidently very limited.,imdb,negative
+393,1,0.49972020,0.50582421,0,Better than you'd expect.,amazon,positive
+1874,0,0.49972020,0.54431310,1,Now this is a movie I really dislike.,imdb,negative
+612,0,0.49972020,0.51453536,1,However I needed some better instructions.,amazon,positive
+135,0,0.49972020,0.54428322,1,The majority of the Logitech earbud headsets failed.,amazon,negative
+2822,1,0.49972020,0.49525487,0,The food came out at a good pace.,yelp,positive
+2873,1,0.49972020,0.41184925,0,If you stay in Vegas you must get breakfast here at least once.,yelp,neutral
+2229,1,0.49972020,0.48394800,0,"Seriously flavorful delights, folks.",yelp,positive
+2079,1,0.49972020,0.38254836,0,Will be back again!,yelp,neutral
+1928,1,0.49972020,0.35946212,0,"It's the one movie that never ceases to interest me, simply because it keeps me alert, as I try to attempt to decipher it's meanings.",imdb,negative
+1013,0,0.49972020,0.75176614,1,Graphics is far from the best part of the game.,imdb,positive
+2112,1,0.49972020,0.46512195,0,"Definitely worth venturing off the strip for the pork belly, will return next time I'm in Vegas.",yelp,positive
+505,1,0.49972020,0.40817478,0,great...no problems at all!.,amazon,negative
+1873,0,0.49972020,0.67800642,1,The only consistent thread holding the series together were the amazing performances of Leni Parker and Anita LaSelva as the two Taelons in quiet idealogical conflict.,imdb,positive
+2080,1,0.49972020,0.44537972,0,Food arrived quickly!,yelp,neutral
+2583,1,0.49972020,0.50376028,0,I miss it and wish they had one in Philadelphia!,yelp,positive
+2007,1,0.49972020,0.34026856,0,So they performed.,yelp,neutral
+1902,0,0.49972020,0.67809093,1,"Characters are one-dimensional, even the good guys and especially the bad guys.",imdb,negative
+153,0,0.49972020,0.54179129,1,I've bought $5 wired headphones that sound better than these.,amazon,positive
+1759,1,0.49972020,0.48689094,0,You won't forget this movie!,imdb,positive
+1104,1,0.49972020,0.35920953,0,"Some applause should be given to the ""prelude"" however.",imdb,positive
+586,1,0.49972020,0.49772173,0,Linked to my phone without effort.,amazon,neutral
+2952,0,0.49972020,0.64423083,1,The food wasn't good.,yelp,negative
+2031,1,0.49972020,0.40521390,0,If you want a sandwich just go to any Firehouse!!!!!,yelp,positive
+1004,1,0.49972020,0.42244531,0,"I'll put this gem up against any movie in terms of screenplay, cinematography, acting, post-production, editing, directing, or any other aspect of film-making.",imdb,neutral
+1773,1,0.49972020,0.46830560,0,"As a courtroom drama, it's compelling, as an indictment on the American justice system, it's frightening.",imdb,positive
+629,1,0.49972020,0.42311891,0,"Not only did the software do a great job of this, I could also make my own ringtones form my existing CDs without an internet connection.",amazon,positive
+2752,1,0.49972020,0.45940194,0,* Both the Hot & Sour & the Egg Flower Soups were absolutely 5 Stars!,yelp,neutral
+2644,1,0.49972020,0.41606368,0,"Very convenient, since we were staying at the MGM!",yelp,neutral
+1132,0,0.49972020,0.72399679,1,The fish is badly made and some of its underwater shots are repeated a thousand times in the film.,imdb,negative
+812,1,0.49972020,0.38604561,0,They keep getting better and better (this is my third one and I've had numerous Palms too).,amazon,positive
+1521,0,0.49972020,0.60134898,1,the movie is littered with overt racial slurs towards the black cast members and in return the whites are depicted as morons and boobs.,imdb,negative
+1747,1,0.49972020,0.48035683,0,I liked the way Dustin Hoffman's character was ready to do just about everything to stay with his son.,imdb,positive
+638,1,0.49972020,0.36407895,0,"They do not last forever, but is not overly expensive to replace.Easy to operate and the sound is much better than others I have tried.",amazon,positive
+1161,0,0.49972020,0.58152898,1,Everything is appalling.,imdb,negative
+1912,1,0.49972020,0.28375826,0,The movie is not completely perfect but 'Titta Di Girolamo' will stay with you for a long time after the vision of the movie.,imdb,positive
+550,0,0.49972020,0.60177464,1,It's AGGRAVATING!,amazon,negative
+2722,1,0.49972020,0.25950967,0,Never had anything to complain about here.,yelp,negative
+300,1,0.49972020,0.33721427,0,Someone shouldve invented this sooner.,amazon,neutral
+95,1,0.49972020,0.36462963,0,Will order from them again!,amazon,neutral
+1398,1,0.49972020,0.45009825,0,The camera really likes her in this movie.,imdb,positive
+1908,0,0.49972020,0.51196935,1,Not easy to watch.,imdb,negative
+1230,0,0.49972020,0.53137272,1,"Regrettably, the film fails.",imdb,negative
+2370,0,0.49972020,0.55766485,1,This place deserves one star and 90% has to do with the food.,yelp,neutral
+1756,1,0.49972020,0.44385453,0,"You learn a lot about the real inside emotions of people in this movie, and a lot about the movie business itself.",imdb,neutral

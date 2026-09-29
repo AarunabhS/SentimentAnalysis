@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+# Preserve the byte-exact public inputs checked by fetch_data.py.
+data/*.csv -text whitespace=blank-at-eol,blank-at-eof,space-before-tab,cr-at-eol
