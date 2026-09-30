@@ -1,0 +1,269 @@
+{
+  "previous_head": "b47fb6a5d37175f13ff42314da46e4bf5c9becf2",
+  "deleted_files": [],
+  "changes": [
+    {
+      "path": ".gitignore",
+      "action": "modified",
+      "before_sha256": "72149856bc00bafca9fd1f9cbe5aadd3d38419ad0e222d439970fca1d7865e4e",
+      "after_sha256": "d5ddc8999bf9ff97a51893a5029bce01b2576877fc34fb6528ede0e5ab3f8fe1",
+      "bytes": 232,
+      "local_only": false
+    },
+    {
+      "path": "CASE_STUDY.md",
+      "action": "added",
+      "before_sha256": null,
+      "after_sha256": "23bdb009a1c46e1f7298b57fe222ca56ce11305ab7e643002863ea06746435ed",
+      "bytes": 2668,
+      "local_only": false
+    },
+    {
+      "path": "CHANGELOG.md",
+      "action": "added",
+      "before_sha256": null,
+      "after_sha256": "bbc6ddf4e4ab0578980c40eebaf0b5c3bf76e7fa37e5aaca3f50079ce3614b13",
+      "bytes": 971,
+      "local_only": false
+    },
+    {
+      "path": "README.md",
+      "action": "modified",
+      "before_sha256": "61d7ac9aff92b3724442ebe9fb13eb7ef96459bf04ba70ef5a87e58812ca1aa5",
+      "after_sha256": "e5de88968c48fc8b1a677ea8b99e3f370dcce898fe31fca33739aec6f0e95b7e",
+      "bytes": 5719,
+      "local_only": false
+    },
+    {
+      "path": "Social_Sentiment_Phase2.ipynb",
+      "action": "added",
+      "before_sha256": null,
+      "after_sha256": "bcb0d2ff4d985f4cd635219367d0266027523cee8203e9ff1cd293ea1b9ca86e",
+      "bytes": 260813,
+      "local_only": false
+    },
+    {
+      "path": "data/PHASE2_SOURCES.md",
+      "action": "added",
+      "before_sha256": null,
+      "after_sha256": "798a0b489d14ac2b4ba4a2b6dcad526d3e3f6dbc08d5ef7080b4c3d31a73025d",
+      "bytes": 793,
+      "local_only": false
+    },
+    {
+      "path": "data/tweeteval_provenance.json",
+      "action": "added",
+      "before_sha256": null,
+      "after_sha256": "9922ae49d49e32097e077bcaaa2593a7579d643c859e6546f2d395a61f35d559",
+      "bytes": 3161,
+      "local_only": false
+    },
+    {
+      "path": "data/tweets.csv",
+      "action": "added",
+      "before_sha256": null,
+      "after_sha256": "e5d6309c04d58786e17e2ffb057de81ca9e407af029581f503b8a861577c55b2",
+      "bytes": 7556840,
+      "local_only": true
+    },
+    {
+      "path": "fetch_tweets.py",
+      "action": "added",
+      "before_sha256": null,
+      "after_sha256": "9504a328872a9c862031bf9b3a9ed01b5680dac29aef86f979c89a3d6badf998",
+      "bytes": 2216,
+      "local_only": false
+    },
+    {
+      "path": "phase2.py",
+      "action": "added",
+      "before_sha256": null,
+      "after_sha256": "1172e7ce94ca1c62aa5ba44c355c2c012ceae3a6f6233a26599bc19c4521ee28",
+      "bytes": 15841,
+      "local_only": false
+    },
+    {
+      "path": "predict_tweets.py",
+      "action": "added",
+      "before_sha256": null,
+      "after_sha256": "bba556caa9ec2d7d75adde539ce50216a8f4e1254649a5555a1d93b90dea99dd",
+      "bytes": 815,
+      "local_only": false
+    },
+    {
+      "path": "results/phase2/REPORT.md",
+      "action": "added",
+      "before_sha256": null,
+      "after_sha256": "2d1862cd879b9cee9ae0eba9cf501577039edf2c94884d0ae2b3b54fd15d7629",
+      "bytes": 1582,
+      "local_only": false
+    },
+    {
+      "path": "results/phase2/authored_examples.csv",
+      "action": "added",
+      "before_sha256": null,
+      "after_sha256": "10ba544f4a1e9c703af6932c30ac3774976e791583de2f1e970f16192bce1b29",
+      "bytes": 432,
+      "local_only": false
+    },
+    {
+      "path": "results/phase2/class_intervals.json",
+      "action": "added",
+      "before_sha256": null,
+      "after_sha256": "891268b40bef6f3336665b271703a830cf42b01ba3240205ae83b4bee03f88f6",
+      "bytes": 1343,
+      "local_only": false
+    },
+    {
+      "path": "results/phase2/confusion.png",
+      "action": "added",
+      "before_sha256": null,
+      "after_sha256": "4ff836012736b20ed6fb65884270f8b3821e4f6b6f4553ec9975d36f8cd3732e",
+      "bytes": 31745,
+      "local_only": false
+    },
+    {
+      "path": "results/phase2/diagnostic_groups.csv",
+      "action": "added",
+      "before_sha256": null,
+      "after_sha256": "d5ae2d5b630ff9ee6c1a22a129415f5eadb81cd11869037995a4f9061fb7a565",
+      "bytes": 226,
+      "local_only": false
+    },
+    {
+      "path": "results/phase2/domain_shift.json",
+      "action": "added",
+      "before_sha256": null,
+      "after_sha256": "7591d45a52906b3e3b958716c7df0a36fd30b44897bd7a123b10f866dc9cc50f",
+      "bytes": 319,
+      "local_only": false
+    },
+    {
+      "path": "results/phase2/errors.csv",
+      "action": "added",
+      "before_sha256": null,
+      "after_sha256": "0ad0d3b0d6ab5343586c0683dcb4956aaba81257379e4766c073461960c466d2",
+      "bytes": 629748,
+      "local_only": false
+    },
+    {
+      "path": "results/phase2/local/error_text.csv",
+      "action": "added",
+      "before_sha256": null,
+      "after_sha256": "b1259a28798ab2f9355c24e0814fe1f06bc9707150328cd70cf22c0706e40aee",
+      "bytes": 1125246,
+      "local_only": true
+    },
+    {
+      "path": "results/phase2/metrics.csv",
+      "action": "added",
+      "before_sha256": null,
+      "after_sha256": "146a2c8df1e4912ba06f19500788b7f5ce7fa9e5ddac6e21be5575ef04eb07c1",
+      "bytes": 593,
+      "local_only": false
+    },
+    {
+      "path": "results/phase2/metrics.json",
+      "action": "added",
+      "before_sha256": null,
+      "after_sha256": "9af3d4bc1f33abeaa704e780bd73bb33781ccf60ae7afb414a251cc5539b01d5",
+      "bytes": 1919,
+      "local_only": false
+    },
+    {
+      "path": "results/phase2/model.joblib",
+      "action": "added",
+      "before_sha256": null,
+      "after_sha256": "bb60dfd00513b9beb12934745cc5b9236f0c5c4413b7e505a9dd54bf053ca800",
+      "bytes": 1115097,
+      "local_only": true
+    },
+    {
+      "path": "results/phase2/predictions.csv",
+      "action": "added",
+      "before_sha256": null,
+      "after_sha256": "34674926c48e2e864193a57f4ff932d40edff04b63ef6950442861567fae5e3e",
+      "bytes": 1505228,
+      "local_only": false
+    },
+    {
+      "path": "results/phase2/reliability.csv",
+      "action": "added",
+      "before_sha256": null,
+      "after_sha256": "17ddd79a48e3726282332c6c16458ef9fb5d09c23bfbda8bad14f1047b24a901",
+      "bytes": 2639,
+      "local_only": false
+    },
+    {
+      "path": "results/phase2/reliability.png",
+      "action": "added",
+      "before_sha256": null,
+      "after_sha256": "7f1ffe959e0fe9b0c94717b76069741e41f4b0f39e5268715f249b0f980b609b",
+      "bytes": 144418,
+      "local_only": false
+    },
+    {
+      "path": "results/phase2/splits.csv",
+      "action": "added",
+      "before_sha256": null,
+      "after_sha256": "622653b8ba16cbead98ac09aaa611216f856a954ff5c4fbdafaab31fd5adff6d",
+      "bytes": 1153448,
+      "local_only": false
+    },
+    {
+      "path": "results/phase2/uncertainty.json",
+      "action": "added",
+      "before_sha256": null,
+      "after_sha256": "de50bdd4ac4e16388342ffbcf63acd493c850e73c37dbe457fd9e82bc900ce8d",
+      "bytes": 579,
+      "local_only": false
+    },
+    {
+      "path": "results/phase2/validation_stability.csv",
+      "action": "added",
+      "before_sha256": null,
+      "after_sha256": "a9497075661c2780f11bae6f69fee7263aade902d5bc0e510003e4c0cec50191",
+      "bytes": 236,
+      "local_only": false
+    },
+    {
+      "path": "review_tools.py",
+      "action": "added",
+      "before_sha256": null,
+      "after_sha256": "63aaef15259be82cf70c37aa603aa6774acac70ac3c5ead3b9cd40ea3a867898",
+      "bytes": 10680,
+      "local_only": false
+    },
+    {
+      "path": "tests/test_review_tools.py",
+      "action": "added",
+      "before_sha256": null,
+      "after_sha256": "2212092af1f27641c2670646cff631e6110e99c759236aeba946c25444a1ebab",
+      "bytes": 2416,
+      "local_only": false
+    },
+    {
+      "path": "tests/test_social_sentiment.py",
+      "action": "added",
+      "before_sha256": null,
+      "after_sha256": "fd68ea6604ede7e2989071943ed0b0ee1e850d6304de9d9ed37db98eb1908087",
+      "bytes": 946,
+      "local_only": false
+    },
+    {
+      "path": "tests/test_tweet_download.py",
+      "action": "added",
+      "before_sha256": null,
+      "after_sha256": "44e8db94f5c33207cc23dc29909b440a3fa6a4ab10ef1a584dfc052222e27d71",
+      "bytes": 1275,
+      "local_only": false
+    }
+  ],
+  "note": "This audit manifest excludes its own hash. Its exact bytes are recorded in the local publication receipt. Local-only inputs/models are excluded from Git.",
+  "verification": {
+    "tests_passed": 21,
+    "heldout_inference": "Scored 12284 rows\nVerified all 12284 held-out batch predictions",
+    "executed_notebook": "7 code cells completed; no error outputs"
+  },
+  "data_sources": "data/PHASE2_SOURCES.md and data/*provenance.json"
+}

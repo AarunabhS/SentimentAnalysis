@@ -1,0 +1,75 @@
+{
+  "project": "sentiment",
+  "input_file": "tweets.csv",
+  "input_sha256": "e5d6309c04d58786e17e2ffb057de81ca9e407af029581f503b8a861577c55b2",
+  "rows_read": 59899,
+  "rows_used": 59866,
+  "earlier_rows_removed_for_overlap_or_ambiguity": 33,
+  "test_rows_preserved": 12284,
+  "test_duplicate_texts": 4,
+  "selected_model": "tweet_tfidf",
+  "label_mapping": {
+    "0": "negative",
+    "1": "neutral",
+    "2": "positive"
+  },
+  "selection": "validation macro F1, log loss breaks ties",
+  "splits": {
+    "fit": {
+      "rows": 34186,
+      "class_counts": {
+        "0": 5318,
+        "1": 15490,
+        "2": 13378
+      }
+    },
+    "calibration": {
+      "rows": 11396,
+      "class_counts": {
+        "0": 1773,
+        "1": 5163,
+        "2": 4460
+      }
+    },
+    "validation": {
+      "rows": 2000,
+      "class_counts": {
+        "0": 312,
+        "1": 869,
+        "2": 819
+      }
+    },
+    "test": {
+      "rows": 12284,
+      "class_counts": {
+        "0": 3972,
+        "1": 5937,
+        "2": 2375
+      }
+    }
+  },
+  "test": {
+    "model": "tweet_tfidf",
+    "split": "test",
+    "accuracy": 0.5817323347443829,
+    "macro_f1": 0.5587443336650925,
+    "macro_recall": 0.5651837162237557,
+    "log_loss": 0.8963906160615154,
+    "multiclass_brier": 0.5392936745531581
+  },
+  "vader_test": {
+    "accuracy": 0.5300390752197981,
+    "macro_f1": 0.5288205878171011,
+    "macro_recall": 0.5700070419266613
+  },
+  "runtime_seconds": 17.21,
+  "seed": 42,
+  "python": "3.13.2",
+  "packages": {
+    "numpy": "2.5.3",
+    "pandas": "2.3.3",
+    "scikit-learn": "1.9.1",
+    "matplotlib": "3.11.2"
+  },
+  "limits": "Human labels support general social sentiment, including neutral; no Black Friday population claim. Heuristic contrast/negation/sarcasm flags are not human annotations of those properties. Mixed sentiment is not a separate gold class. Raw text remains local; licence is unspecified upstream."
+}

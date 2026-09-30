@@ -1,0 +1,7 @@
+{
+  "review_model_uci_accuracy": 0.7953020134228188,
+  "review_model_binary_tweet_accuracy": 0.65574287064755,
+  "binary_tweet_rows": 6347,
+  "neutral_rows_excluded": 5937,
+  "interpretation": "Different class prevalence and datasets; this is a transfer diagnostic, not a controlled causal estimate of domain shift."
+}

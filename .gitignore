@@ -8,3 +8,7 @@ __pycache__/
 .env.*
 results/new_predictions.csv
 data/private/
+
+# Phase-two local inputs and text; original files are preserved.
+results/phase2/local/
+data/tweets.csv

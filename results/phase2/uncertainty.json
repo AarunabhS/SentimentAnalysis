@@ -1,0 +1,26 @@
+{
+  "replicates": 200,
+  "method": "Cluster bootstrap of identical normalized test text",
+  "intervals": {
+    "accuracy": {
+      "low": 0.5742055453755763,
+      "high": 0.5897802220996881
+    },
+    "macro_f1": {
+      "low": 0.5492009647924935,
+      "high": 0.5681296872225645
+    },
+    "macro_recall": {
+      "low": 0.5569827238441353,
+      "high": 0.5740090094061505
+    },
+    "log_loss": {
+      "low": 0.8845307878343488,
+      "high": 0.9068867335423679
+    },
+    "multiclass_brier": {
+      "low": 0.5312868797892869,
+      "high": 0.5461277461006555
+    }
+  }
+}

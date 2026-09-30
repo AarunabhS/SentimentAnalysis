@@ -1,0 +1,60 @@
+{
+  "publisher": "Cardiff NLP / TweetEval authors",
+  "revision": "4fbd22cd78421f05b1ecdb4fc5725bc7a7bd8f66",
+  "source_page": "https://github.com/cardiffnlp/tweeteval",
+  "paper": "https://aclanthology.org/2020.findings-emnlp.148/",
+  "licence_note": "No explicit dataset redistribution licence in the repository; raw tweet text remains local.",
+  "files": {
+    "train_text.txt": {
+      "url": "https://raw.githubusercontent.com/cardiffnlp/tweeteval/4fbd22cd78421f05b1ecdb4fc5725bc7a7bd8f66/datasets/sentiment/train_text.txt",
+      "sha256": "368f01052ea6fd8ffc408a2a2e6ac9669e31542581a0396ef16591ea26eb98a6",
+      "git_blob_sha1": "a2c955f25c9c75a51680b5ce8e75e6c63ca835e1",
+      "bytes": 4970029,
+      "content_type": "text/plain"
+    },
+    "train_labels.txt": {
+      "url": "https://raw.githubusercontent.com/cardiffnlp/tweeteval/4fbd22cd78421f05b1ecdb4fc5725bc7a7bd8f66/datasets/sentiment/train_labels.txt",
+      "sha256": "122bfb1732fb6995b0e5c5f726c0ba457c469c3b6e60513007ce5037f23e65d4",
+      "git_blob_sha1": "d0d28cb9b5a64abecfe97c06c826f70305556e9a",
+      "bytes": 91230,
+      "content_type": "text/plain"
+    },
+    "val_text.txt": {
+      "url": "https://raw.githubusercontent.com/cardiffnlp/tweeteval/4fbd22cd78421f05b1ecdb4fc5725bc7a7bd8f66/datasets/sentiment/val_text.txt",
+      "sha256": "e5b021e6fc45064c260b09814b803d8f56cada519c4d952d72f43d48a350a964",
+      "git_blob_sha1": "b608664639361a9f8da99a882472af44f0330c89",
+      "bytes": 219137,
+      "content_type": "text/plain"
+    },
+    "val_labels.txt": {
+      "url": "https://raw.githubusercontent.com/cardiffnlp/tweeteval/4fbd22cd78421f05b1ecdb4fc5725bc7a7bd8f66/datasets/sentiment/val_labels.txt",
+      "sha256": "b4566926c72e2e4e2916c864def94e76c4cdde52446af2c7ba4fc2006e057e51",
+      "git_blob_sha1": "fd86539deb0d094782a1efed6dd06416fac75566",
+      "bytes": 4000,
+      "content_type": "text/plain"
+    },
+    "test_text.txt": {
+      "url": "https://raw.githubusercontent.com/cardiffnlp/tweeteval/4fbd22cd78421f05b1ecdb4fc5725bc7a7bd8f66/datasets/sentiment/test_text.txt",
+      "sha256": "09a93a55c63fd93f97485ef7302889d7edb4091cd49733aa37da094f0bfa0675",
+      "git_blob_sha1": "95fe0b5fdfaba658fca9e4d85ab9e5224bc67bbe",
+      "bytes": 1156877,
+      "content_type": "text/plain"
+    },
+    "test_labels.txt": {
+      "url": "https://raw.githubusercontent.com/cardiffnlp/tweeteval/4fbd22cd78421f05b1ecdb4fc5725bc7a7bd8f66/datasets/sentiment/test_labels.txt",
+      "sha256": "6afb4afe9374d1f983bcf9a7c79b108d0f37fdf020a83f30488309bed215db9d",
+      "git_blob_sha1": "e3cf7395a85ad38caf6b53cfdeeefd7fbf2dcc48",
+      "bytes": 24568,
+      "content_type": "text/plain"
+    },
+    "mapping.txt": {
+      "url": "https://raw.githubusercontent.com/cardiffnlp/tweeteval/4fbd22cd78421f05b1ecdb4fc5725bc7a7bd8f66/datasets/sentiment/mapping.txt",
+      "sha256": "c0572796fbe261d8ea5fd16c5061076fbba49bc69fc865d6abccaf60daacee24",
+      "git_blob_sha1": "e98272f57db16af409fee64d9efccf5116e1ec27",
+      "bytes": 32,
+      "content_type": "text/plain"
+    }
+  },
+  "prepared_sha256": "e5d6309c04d58786e17e2ffb057de81ca9e407af029581f503b8a861577c55b2",
+  "rows": 59899
+}

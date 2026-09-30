@@ -1,0 +1,57 @@
+{
+  "level": 0.95,
+  "classes": [
+    {
+      "label": "negative",
+      "support": 3972,
+      "predicted_rows": 2411,
+      "recall": {
+        "estimate": 0.3909869083585096,
+        "low": 0.3759238828546726,
+        "high": 0.40626059080467913,
+        "n": 3972
+      },
+      "precision": {
+        "estimate": 0.6441310659477395,
+        "low": 0.6248046943470558,
+        "high": 0.662998878621005,
+        "n": 2411
+      }
+    },
+    {
+      "label": "neutral",
+      "support": 5937,
+      "predicted_rows": 6999,
+      "recall": {
+        "estimate": 0.7003537139969682,
+        "low": 0.6885744778654792,
+        "high": 0.7118738452365905,
+        "n": 5937
+      },
+      "precision": {
+        "estimate": 0.5940848692670382,
+        "low": 0.5825316868742277,
+        "high": 0.6055348298025313,
+        "n": 6999
+      }
+    },
+    {
+      "label": "positive",
+      "support": 2375,
+      "predicted_rows": 2874,
+      "recall": {
+        "estimate": 0.6042105263157894,
+        "low": 0.5843902075494359,
+        "high": 0.6236942775113697,
+        "n": 2375
+      },
+      "precision": {
+        "estimate": 0.49930410577592205,
+        "low": 0.4810373190343889,
+        "high": 0.5175727503327959,
+        "n": 2874
+      }
+    }
+  ],
+  "assumption": "Row independence; repeated text is clustered in bootstrap below"
+}
