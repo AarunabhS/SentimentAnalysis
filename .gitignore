@@ -12,3 +12,6 @@ data/private/
 # Phase-two local inputs and text; original files are preserved.
 results/phase2/local/
 data/tweets.csv
+
+# Local plotting runtime cache; exported charts remain tracked.
+results/charts/local/

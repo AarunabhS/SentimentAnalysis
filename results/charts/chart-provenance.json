@@ -1,0 +1,38 @@
+{
+  "project": "SentimentAnalysis",
+  "source_directory": "results/phase2",
+  "source_sha256": {
+    "metrics.json": "9af3d4bc1f33abeaa704e780bd73bb33781ccf60ae7afb414a251cc5539b01d5",
+    "predictions.csv": "34674926c48e2e864193a57f4ff932d40edff04b63ef6950442861567fae5e3e",
+    "metrics.csv": "146a2c8df1e4912ba06f19500788b7f5ce7fa9e5ddac6e21be5575ef04eb07c1"
+  },
+  "model": "tweet_tfidf",
+  "model_refitted": false,
+  "network_requests": 0,
+  "deleted_files": [],
+  "checks": "Counts, selected metrics and key policy points checked against recorded metrics; figure labels checked for clipping.",
+  "charts": [
+    {
+      "chart": "sentiment_confusion",
+      "interpretation": "Counts use all 12,284 official test posts. Cell percentages are normalized within actual class, not over all posts.",
+      "png": "sentiment_confusion.png",
+      "svg": "sentiment_confusion.svg"
+    },
+    {
+      "chart": "sentiment_classes",
+      "interpretation": "Class support is shown under each label. F1 balances precision and recall; class imbalance makes aggregate accuracy incomplete.",
+      "png": "sentiment_classes.png",
+      "svg": "sentiment_classes.svg"
+    },
+    {
+      "chart": "sentiment_models",
+      "interpretation": "All candidates are shown for transparency. TF\u2013IDF was selected on validation macro F1 even though the calibrated candidate is stronger on this test; the test is not used to change that choice.",
+      "png": "sentiment_models.png",
+      "svg": "sentiment_models.svg"
+    }
+  ],
+  "dashboard": [
+    "dashboard.png",
+    "dashboard.svg"
+  ]
+}

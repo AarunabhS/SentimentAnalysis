@@ -1,0 +1,99 @@
+{
+  "previous_head": "b87df5872902812a58036d9c4404010c38321942",
+  "changes": [
+    {
+      "path": ".gitignore",
+      "action": "modified",
+      "before_sha256": "d5ddc8999bf9ff97a51893a5029bce01b2576877fc34fb6528ede0e5ab3f8fe1",
+      "after_sha256": "1a6c9ddef3ad960875a2b13d3d35804a43a0c96298318b6c3fa74d3a760ab482",
+      "bytes": 319
+    },
+    {
+      "path": "README.md",
+      "action": "modified",
+      "before_sha256": "e5de88968c48fc8b1a677ea8b99e3f370dcce898fe31fca33739aec6f0e95b7e",
+      "after_sha256": "26a2aa8987754749e276edadc066ea48be535b0138747d52e27136d81a6603fc",
+      "bytes": 5935
+    },
+    {
+      "path": "plot_gallery.py",
+      "action": "added",
+      "before_sha256": null,
+      "after_sha256": "d82244dd526989b121b9692ab40c3c2329571f90f3698eda8ab8d2c0ebbe98e5",
+      "bytes": 24798
+    },
+    {
+      "path": "results/charts/README.md",
+      "action": "added",
+      "before_sha256": null,
+      "after_sha256": "ae1115cfd722b128a29c9f73a61aad7a0500614da016d1ec9c48e9ccb3ea5791",
+      "bytes": 1490
+    },
+    {
+      "path": "results/charts/chart-provenance.json",
+      "action": "added",
+      "before_sha256": null,
+      "after_sha256": "d87321fd34ee0ec33cb7afb8784078c4dfa3c80f433b066814071a91d4561805",
+      "bytes": 1580
+    },
+    {
+      "path": "results/charts/dashboard.png",
+      "action": "added",
+      "before_sha256": null,
+      "after_sha256": "bb89d73de5f0af52820f52f78e67e36a0e93ecba5efc9d45f098a48d72538002",
+      "bytes": 374665
+    },
+    {
+      "path": "results/charts/dashboard.svg",
+      "action": "added",
+      "before_sha256": null,
+      "after_sha256": "fd13cc96f96b57af0e14f64d71adf24597422da3bb1c1012d8396b30f9e7853d",
+      "bytes": 32286
+    },
+    {
+      "path": "results/charts/sentiment_classes.png",
+      "action": "added",
+      "before_sha256": null,
+      "after_sha256": "6a8f952857ce76959d005b273b2cb89d7f65f34733389d998afe29963d59380e",
+      "bytes": 147606
+    },
+    {
+      "path": "results/charts/sentiment_classes.svg",
+      "action": "added",
+      "before_sha256": null,
+      "after_sha256": "92dd7c9d44a98c39463ba1305fb17035f7f434efd17ea7160739e01688ecd8ad",
+      "bytes": 12000
+    },
+    {
+      "path": "results/charts/sentiment_confusion.png",
+      "action": "added",
+      "before_sha256": null,
+      "after_sha256": "408690bc526925e550c052bbbeae83e3d0e287d22b6a6abfb13148b405dcb603",
+      "bytes": 178515
+    },
+    {
+      "path": "results/charts/sentiment_confusion.svg",
+      "action": "added",
+      "before_sha256": null,
+      "after_sha256": "cea0dc29c3bdc2c1a7a0d0dbc9053552853259bc057bfb186d083944ee87ef1d",
+      "bytes": 12029
+    },
+    {
+      "path": "results/charts/sentiment_models.png",
+      "action": "added",
+      "before_sha256": null,
+      "after_sha256": "a441b088502d4b126c033d4adfef80525ac8c550e37a599348ce276399a83007",
+      "bytes": 157384
+    },
+    {
+      "path": "results/charts/sentiment_models.svg",
+      "action": "added",
+      "before_sha256": null,
+      "after_sha256": "9fa6f419d07919a4c8f7080d8783344f9ce206d4d0bf1aa83d15998d8fd41e29",
+      "bytes": 13327
+    }
+  ],
+  "deleted_files": [],
+  "verification": "Chart counts and metrics match saved results; PNG/SVG labels inspected; source hashes recorded. No model refitting, data downloads, or original result edits.",
+  "note": "The manifest excludes its own hash; that hash is retained in the local publication receipt."
+}

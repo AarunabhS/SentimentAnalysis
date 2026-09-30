@@ -1,5 +1,9 @@
 # Social Sentiment Analysis
 
+**[Colorful results gallery](results/charts/README.md)** — three charts, a project summary, and PNG/SVG exports. Reproduce with `python plot_gallery.py`.
+
+![Colorful project summary](results/charts/dashboard.png)
+
 Classify social posts as negative, neutral, or positive against human labels.
 
 **Start with the [case study](CASE_STUDY.md), [executed phase-two notebook](Social_Sentiment_Phase2.ipynb), or [current results report](results/phase2/REPORT.md).**
